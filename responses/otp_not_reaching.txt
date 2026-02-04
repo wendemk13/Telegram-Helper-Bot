@@ -1,0 +1,21 @@
+📱 When OTP is not reaching the customer's mobile
+
+1️⃣ Verify SMS reception
+
+Confirm if the customer receives SMS from any sender.
+
+2️⃣ Check sender-specific blocking
+
+If other SMS are received, verify whether messages from Anbesabank / LIB / 8803 are blocked on the customer’s device.
+
+If blocked, unblock immediately.
+
+3️⃣ Ensure phone accessibility
+
+If not blocked, confirm the customer’s phone is reachable for both calls and SMS (network coverage, SIM active, not in airplane mode).
+
+4️⃣ Validate head office SMS service
+
+If all above checks pass, confirm whether SMS service is temporarily stopped at the Head Office.
+
+⚠️ Note: This occurs in <2% of cases, so check steps 1–3 first.
